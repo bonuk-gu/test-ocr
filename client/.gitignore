@@ -21,8 +21,3 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-#database
-/database.json
-
-#apikey: OCRP8432898A
